@@ -14,5 +14,19 @@ html {
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.name {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.initials-logo {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 1.75rem;
 }
