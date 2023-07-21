@@ -1,0 +1,24 @@
+﻿.socials-midias a {
+    color: var(--secondary-color);
+    font-size: 3.5rem;
+    margin-right: 3rem;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+    .socials-midias a:hover{
+        color: var(--letter-color);
+    }
+
+.continue {
+    margin-top: 6rem;
+}
+
+    .continue a {
+        font-size: 3.75rem;
+        cursor: pointer;
+        transition: var(--transition);
+    }
+        .continue a:hover{
+            color: var(--secondary-color);
+        }
